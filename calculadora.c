@@ -1,7 +1,10 @@
+//Práctica 6
+// Ana Tonalli Hernández Atlatenco 
+
+
 #include<stdio.h>
 
-
-int main ()
+int main()
 {
     int a;
     int res =0;
