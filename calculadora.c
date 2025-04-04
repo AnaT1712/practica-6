@@ -11,7 +11,7 @@ int main()
     int b;
     int opcion;
     
-    {
+    
         
      printf("menu:\n");
      printf("escoge una opcion: \n");
@@ -42,18 +42,18 @@ int main()
               res = a-b;
            }
            else 
-              {
+            {
               if (opcion == 3)
               {
-                 res = a*b;
+                res = a*b;
               }
               else
-                {
-                if (opcion == 4);
-                { 
+              {
                    res = a/b;
-                }
-               
+              }
+            }
+    }
+        
      printf("el resultado final es: %d \n", res);
     
      printf("menu:\n");
